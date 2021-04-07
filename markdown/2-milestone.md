@@ -32,14 +32,6 @@
   - Redis Labs is the home of Redis
 
 
-### Office Hours
-
-- Accessible
-- Consistent
-- Quarterly Webinars
-  - Ongoing Enablement
-
-
 ### Documentation
 
 - [Azure Documentation](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/)
